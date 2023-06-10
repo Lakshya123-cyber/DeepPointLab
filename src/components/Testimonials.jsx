@@ -29,7 +29,7 @@ const Testimonials = () => (
     </div>
 
     <h1>FeedBack Form</h1>
-    <div className="w-[310px] h-[410px] flex flex-col justify-between items-center bg-slate-600 rounded-lg border-2 border-white text-white">
+    <div className="w-[310px] h-[410px] flex flex-col justify-between items-center bg-gradient-to-r from-transparent via-slate-900 to-black rounded-lg border-2 border-white text-white">
       <form className="h-52 w-full p-4 space-y-4">
         <input
           type="text"
