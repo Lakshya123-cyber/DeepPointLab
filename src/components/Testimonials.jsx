@@ -27,6 +27,36 @@ const Testimonials = () => (
         <FeedbackCard key={card.id} {...card} />
       ))}
     </div>
+
+    <h1>FeedBack Form</h1>
+    <div className="w-[310px] h-[410px] flex flex-col justify-between items-center bg-slate-600 rounded-lg border-2 border-white text-white">
+      <form className="h-52 w-full p-4 space-y-4">
+        <input
+          type="text"
+          placeholder="Your Name"
+          name="name"
+          className="inputClass"
+        />
+        <input
+          type="text"
+          placeholder="Your Email"
+          name="email"
+          className="inputClass"
+        />
+        <textarea
+          type="text"
+          placeholder="Your Feedback"
+          className="inputClass"
+          style={{ textAlign: "center" }}
+        ></textarea>
+      </form>
+      <button
+        type="button"
+        className={`py-4 px-6 bg-blue-gradient font-poppins font-medium text-[18px] text-primary outline-none ${styles} rounded-[10px] mb-[70px]`}
+      >
+        Submit Feedback
+      </button>
+    </div>
   </section>
 );
 

@@ -18,6 +18,12 @@
   scroll-behavior: smooth;
 }
 
+@layer components {
+  .inputClass {
+    @apply text-center w-full h-12 text-orange-400 font-bold border-b-[0.4px] border-b-orange-400 bg-transparent placeholder-white outline-none;
+  }
+}
+
 .text-gradient {
   background: radial-gradient(
     64.18% 64.18% at 71.16% 35.69%,
