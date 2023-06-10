@@ -15,8 +15,9 @@ const Testimonials = () => (
       </h1>
       <div className="w-full md:mt-0 mt-6">
         <p className={`${styles.paragraph} text-left max-w-[450px]`}>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. A itaque,
-          perspiciatis dignissimos atque earum neque!
+          Discover what our clients are saying about us. Read firsthand
+          experiences and positive feedback highlighting our trusted technology
+          solutions and our ability to help them achieve their goals.
         </p>
       </div>
     </div>

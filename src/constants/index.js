@@ -38,23 +38,23 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "Software Development",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "Custom software solutions tailored to your business needs, including web applications, mobile apps, and enterprise software.",
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "100% Secured",
+    title: "Data Analysis and Business Intelligence",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "Unlocking the power of data through advanced analytics and visualization techniques to gain valuable insights and make informed business decisions.",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Cybersecurity Solutions",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "Implementing robust cybersecurity measures to protect your valuable data, networks, and systems from cyber threats and breaches.",
   },
 ];
 

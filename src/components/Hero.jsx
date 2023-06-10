@@ -35,9 +35,11 @@ const Hero = () => {
           To Help Grow.
         </h1>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus
-          enim amet, repellat, laboriosam sunt ipsam hic quas ullam consequuntur
-          nisi dolorem, eaque assumenda mollitia officia?
+          Welcome to Deep Point Lab, we specialize in expert tech consultancy
+          services to empower businesses in the digital landscape. Leveraging
+          our deep knowledge and extensive experience, we deliver tailored
+          solutions that drive growth, efficiency, and innovation. Discover how
+          our services can help your business reach new heights.
         </p>
       </div>
 

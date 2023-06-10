@@ -12,7 +12,8 @@ const Footer = () => (
           className="w-[266px] h-[72px] obejct-contain"
         />
         <p className={`${styles.paragraph} mt-4 max-w-[310px]`}>
-          Lorem ipsum dolor sit amet consectetur
+          Experience the impact of our client-centric approach and unlock new
+          possibilities for your business.
         </p>
       </div>
 

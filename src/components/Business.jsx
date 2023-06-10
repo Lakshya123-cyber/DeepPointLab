@@ -34,9 +34,10 @@ const Business = () => {
           we&apos;ll help you accelerate.
         </h2>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus
-          enim amet, repellat, laboriosam sunt ipsam hic quas ullam consequuntur
-          nisi dolorem, eaque assumenda mollitia officia?
+          At Deep Point Lab, we prioritize our clients needs, delivering
+          tailored tech consultancy solutions. Our experienced professionals
+          collaborate closely with clients to design and implement cutting-edge
+          technologies, aligning with their vision and driving tangible results.
         </p>
 
         <Button styles="mt-10" />

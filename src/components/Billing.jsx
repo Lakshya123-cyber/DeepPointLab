@@ -20,8 +20,9 @@ const Billing = () => (
         business management.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Numquam quia
-        minus quaerat sequi est maxime?
+        At Deep Point Lab, we offer tech consultancy services to help businesses
+        excel. From software development to cybersecurity, we enable success
+        through technology.
       </p>
 
       <div className="flex flex-row flex-wrap sm:mt-10 mt-6">

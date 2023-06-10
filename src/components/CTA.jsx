@@ -8,9 +8,9 @@ const CTA = () => (
     <div className="flex-1 flex flex-col">
       <h2 className={styles.heading2}>Let&apos;s try our service now!</h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quia
-        reiciendis sequi quibusdam aliquid veniam eveniet iste, deleniti
-        repudiandae ea quae!
+        Try our services now and unlock your business&apos;s potential.
+        Experience the value of our tailored solutions and expert guidance
+        firsthand.
       </p>
     </div>
 
